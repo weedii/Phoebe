@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641359770779",
+    "project_id": "phoebe-d60af",
+    "storage_bucket": "phoebe-d60af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641359770779:android:1f42a66ae7cd94ddfbc23e",
+        "android_client_info": {
+          "package_name": "com.example.pheobe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbc5SnA3-zG5CJO5rJYQ1IHp3wZ-x1xvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
